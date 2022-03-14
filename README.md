@@ -1,20 +1,19 @@
 # Natural-Learning-Process-Twitter-US-Airline-Sentiment
 
-# Overivew
+# Project Description
 
-Social media has become such a large influence in the modern business world. Companies/businesses need to stay up to date with customers perception of their services, the majority of which can be captured from social media. Twitter is a major social media platform. Customers are continuously providing feedback about the services provided by companies via Twitter. Airlines are no exception to this.
+Social media has become such a large influence in the modern business world. Companies/businesses need to stay up to date with customers perception of their services, the majority of which can be captured from social media. Twitter is a major social media platform. Customers are continuously providing feedback about the services provided by companies via Twitter. Airlines are no exception to this. 
 
-# Data Description:
-A sentiment analysis job about the problems of each major U.S. airline.
-Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service").
-Dataset:
-The project is from a dataset from Kaggle.
+# Dataset:
+The project is from a dataset from Kaggle. Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service").
+
 Link to the Kaggle project site:https://www.kaggle.com/crowdflower/twitter-airline-sentiment
 The dataset has to be downloaded from the above Kagglewebsite.
 
 # Objective:
 To classify the sentiment of tweets into the positive, neutral & negative.
-Learning Outcomes:
+
+# Learning Outcomes:
 Text based EDA
 Basic understanding of text pre-processing.
 What to do after text pre-processing:
